@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kushal / airalpha
+- 👋 Hi, I’m Kushal 
 - 👀 I’m interested in Aiecraft Design, Aerodynamics, Stability and Control
 - 🌱 Graduated, B.E in Aeronautical Engineering, DSCE
 
